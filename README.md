@@ -19,6 +19,7 @@ The primary goal of this work is to predict house prices. To attain this goal, a
 - Further details on the metadata of the variables can be found [here](https://github.com/HwaiTengTeoh/House-Prices-Prediction/blob/main/data/data_description.txt).
 
 ## WorkFlow
+Refer the [code](https://github.com/HwaiTengTeoh/House-Prices-Prediction/blob/main/code/Predicting%20House%20Prices%20Using%20Advanced%20Regression%20Techniques.ipynb) in Jupyter Notebook for the output of the following:
 - Data Processing and Cleaning
 - Exploratory Data Analysis (EDA) and Visualization
 - Model Development: 
