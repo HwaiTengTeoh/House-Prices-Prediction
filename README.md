@@ -18,4 +18,8 @@ The primary goal of this work is to predict house prices. To attain this goal, a
 - The details of competition can be accessed [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).
 - Further details on the metadata of the variables can be found [here](https://github.com/HwaiTengTeoh/House-Prices-Prediction/blob/main/data/data_description.txt).
 
-
+## WorkFlow
+- Data Processing and Cleaning
+- Exploratory Data Analysis (EDA) and Visualization
+- Model Development: 
+- Model Evaluation
