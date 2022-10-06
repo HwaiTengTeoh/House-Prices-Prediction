@@ -4,6 +4,11 @@
 ## Work Summary
 
 ## Objectives
+The primary goal of this work is to predict house prices. To attain this goal, a few objectives are outlined:
+- To visualize the past trends in housing market prices
+- To explore the relationship between features that cause a house to be the most expensive in the market
+- To identify the influential features for building the house price prediction model
+- To develop and evaluate models that predict a house’s selling price using advanced regression techniques
 
 ## Data Sources
 - The historical house pricing data used for this work was prepared by Dean De Cock in 2011, which was made publicly available in conjunction with the Kaggle’s GettingStarted Prediction Competition to encourage Data Scientist’s contribution in employing feature engineering and advanced regression techniques that help generate input for house pricing prediction. 
