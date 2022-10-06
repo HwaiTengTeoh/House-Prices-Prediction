@@ -1,5 +1,5 @@
 # House Prices Prediction Using Advanced Regression Techniques
-*Note: This repository shares the group project in fulfillment of the Data Analytics class for Data Science coursework.*
+*Note: This repository shares the group project in fulfillment of the Data Analytics class for Master of Data Science coursework.*
 
 ## Work Summary
 The strategy to decide on the value of a property (i.e., a house) should not be based on pure intuition. Instead, there are multiple aspects to look into, such as the property's built location, the location accessibility, the number of rooms and bathrooms, the construction year, and the availability of other house equipment. These aspects are usually considered the main factors that add or drop a house's value. Hence, this project aims to predict the house price accurately based on the historical data by applying a regression algorithm along with some pre-processing techniques
