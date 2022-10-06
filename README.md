@@ -2,6 +2,7 @@
 *Note: This repository shares the group project in fulfillment of the Data Analytics class for Data Science coursework.*
 
 ## Work Summary
+The strategy to decide on the value of a property (i.e., a house) should not be based on pure intuition. Instead, there are multiple aspects to look into, such as the property's built location, the location accessibility, the number of rooms and bathrooms, the construction year, and the availability of other house equipment. These aspects are usually considered the main factors that add or drop a house's value. Hence, this project aims to predict the house price accurately based on the historical data by applying a regression algorithm along with some pre-processing techniques
 
 ## Objectives
 The primary goal of this work is to predict house prices. To attain this goal, a few objectives are outlined:
@@ -22,5 +23,5 @@ The primary goal of this work is to predict house prices. To attain this goal, a
 Refer the [code](https://github.com/HwaiTengTeoh/House-Prices-Prediction/blob/main/code/Predicting%20House%20Prices%20Using%20Advanced%20Regression%20Techniques.ipynb) in Jupyter Notebook for the output of the following:
 - Data Processing and Cleaning
 - Exploratory Data Analysis (EDA) and Visualization
-- Model Development: 
+- Model Development: Linear Regression, Polynomial Regression, Boosting: Extreme Gradient Boosting (XGBoost), Bagging: Random Forest
 - Model Evaluation
